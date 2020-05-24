@@ -1,0 +1,5 @@
+export const GET_POSTS = 'GET_POSTS';
+export const GET_POSTS_FAIL = 'GET_POSTS_FAIL';
+export const GET_SINGLE_POST = 'GET_SINGLE_POST';
+export const GET_SINGLE_POST_FAIL = 'GET_SINGLE_POST_FAIL';
+export const UPDATE_SEARCH_DATA = 'UPDATE_SEARCH_DATA';
